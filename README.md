@@ -8,7 +8,7 @@ The script extracts colors from an image and uses these colors to draw a series 
 
 ## **Example:**
 
-![alt text]()
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_18.PNG?raw=true)
 
 ## Requirements
 -  Python 3.x
