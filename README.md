@@ -12,7 +12,7 @@ The script extracts colors from an image and uses these colors to draw a series 
 
 ## Requirements
 -  Python 3.x
-- 'colorgram' module: For extracting colors from images.
+- `colorgram` module: For extracting colors from images.
 - `turtle` module (comes pre-installed with Python)
 
 ## Usage
